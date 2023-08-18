@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  max-width: 1360px;
+}
+
+.heading {
+  margin: 300  300;
+  color: blue;
+}
+
+.image {
+  margin: 0 auto;;
+}
+
+.button {
+  margin: 0 auto;
+}
