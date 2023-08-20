@@ -1,5 +1,6 @@
 {
   "name": "image-carousal",
+  "author": "Josh Duncanson",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
