@@ -50,6 +50,7 @@
   margin: 0 auto;;
 }
 
+/* Currently not aligning in the middle as intended */
 .button {
   margin: 0 auto;
 }

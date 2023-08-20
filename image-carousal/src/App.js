@@ -21,6 +21,7 @@ export default function Gallery() {
     let currentImage = imagez[index];
     console.log(currentImage)
 
+    //
     return(
         <div className='container'>
             <h1 className='heading'>The Great Carousal</h1>
